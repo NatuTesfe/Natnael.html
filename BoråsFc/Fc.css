@@ -1,0 +1,28 @@
+/* Style the scroll menu */
+.scrollmenu {
+ background-color: #333;
+ overflow-x: auto;
+ white-space: nowrap;
+ padding: 10px 0; /* Justera efter behov */
+}
+
+.scrollmenu a {
+ display: inline-block;
+ color: white;
+ text-align: center;
+ padding: 14px 16px;
+ text-decoration: none;
+}
+
+.scrollmenu a:hover {
+ background-color: #777;
+}
+
+body {
+ background-image:url("AIsoccer.jpg");
+
+ color: white;
+ 
+ background-size: cover;
+}
+
